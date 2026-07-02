@@ -1,4 +1,4 @@
-# Business-Insights-360
+# Business Insights 360
 
 ### 🏬 Company Overview
 - AtliQ Hardware(imaginary company) is a rapidly growing electronics company specializing in hardware products, including PC accessories, printers, and more. Over the years, AtliQ has expanded significantly, establishing a strong global presence in key regions such as APAC, North America, Latin America, and the European Union.
@@ -148,29 +148,29 @@ Competitive Position & Market Share:
 Live Dashboard : [Link](https://app.powerbi.com/view?r=eyJrIjoiNDg0NWNjMjktOGRmZC00YmRiLWJjN2QtNDM0MmEzOTQ4NjNiIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=85afd60f8b2ac5c101f0)
 
 ### Home Page :
-![home page](https://github.com/parthpatoliya97/Business-Insights-360-Dashboard/blob/main/Images/Home%20Page.png?raw=true)
+![home page](https://github.com/shakeer456/Business-Insights-360-Dashboard/blob/main/Images/Home%20Page.png?raw=true)
 
 ----------
 
 ### Finance View :
-![finance view](https://github.com/parthpatoliya97/Business-Insights-360-Dashboard/blob/main/Images/Finance%20View.png?raw=true)
+![finance view](https://github.com/shakeer456/Business-Insights-360-Dashboard/blob/main/Images/Finance%20View.png?raw=true)
 
 ------------
 
 ### Sales View :
-![sales view](https://github.com/parthpatoliya97/Business-Insights-360-Dashboard/blob/main/Images/Sales%20View.png?raw=true)
+![sales view](https://github.com/shakeer456/Business-Insights-360-Dashboard/blob/main/Images/Sales%20View.png?raw=true)
 
 -----------
 
 ### Marketing View :
-![marketing view](https://github.com/parthpatoliya97/Business-Insights-360-Dashboard/blob/main/Images/Marketing%20View.png?raw=true)
+![marketing view](https://github.com/shakeer456/Business-Insights-360-Dashboard/blob/main/Images/Marketing%20View.png?raw=true)
 
 ----------
 
 ### Supply Chain View :
-![supply chain view](https://github.com/parthpatoliya97/Business-Insights-360-Dashboard/blob/main/Images/Supply%20Chain%20View.png?raw=true)
+![supply chain view](https://github.com/shakeer456/Business-Insights-360-Dashboard/blob/main/Images/Supply%20Chain%20View.png?raw=true)
 
 -----------
 
 ### Executive View :
-![executive view](https://github.com/parthpatoliya97/Business-Insights-360-Dashboard/blob/main/Images/Executive%20View.png?raw=true)
+![executive view](https://github.com/shakeer456/Business-Insights-360-Dashboard/blob/main/Images/Executive%20View.png?raw=true)
